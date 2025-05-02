@@ -19,4 +19,4 @@ jobs:
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
 head:
-  - <meta name="google-site-verification" content="your_verification_code" />
+  - <meta name="google-site-verification" content="gwuZHJsm9xuub6HJHlt_I4po0RHsoBvAGpfLTlnAwhc" />
